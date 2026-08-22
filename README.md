@@ -859,6 +859,9 @@ This overview aims to support more research on agentic security. The goal is to 
 22. StruQ: **"StruQ: Defending Against Prompt Injection with Structured Queries"**.
     *Sizhe Chen et al.* USENIX Security 2025. [[Paper](https://arxiv.org/abs/2402.06363)][[Github](https://github.com/Sizhe-Chen/StruQ)]
 
+23. Bounded Agents: **"Bounded Agents: Delegation Security for Multi-Agent AI Systems"**.
+    *Xabier Muruaga.* arXiv 2026. [[Paper](https://arxiv.org/abs/2608.15888)][[Github](https://github.com/xmuruaga/bounded-agents)]
+
 ##### Multi-Agent Security
 
 1.  D-CIPHER: **"D-CIPHER: Dynamic Collaborative Intelligent Multi-Agent System with Planner and Heterogeneous Executors for Offensive Security"**.
